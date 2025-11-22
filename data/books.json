@@ -1,0 +1,38 @@
+[
+  {
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "year": 1925,
+    "image": "images/book1.jpg"
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "year": 1960,
+    "image": "images/book2.jpg"
+  },
+  {
+    "title": "1984",
+    "author": "George Orwell",
+    "year": 1949,
+    "image": "images/book3.jpg"
+  },
+  {
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "year": 1813,
+    "image": "images/book4.jpg"
+  },
+  {
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "year": 1937,
+    "image": "images/book5.jpg"
+  },
+  {
+    "title": "Moby Dick",
+    "author": "Herman Melville",
+    "year": 1851,
+    "image": "images/book6.jpg"
+  }
+]

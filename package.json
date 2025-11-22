@@ -1,0 +1,25 @@
+{
+  "name": "miniproject1",
+  "version": "1.0.0",
+  "description": "A professional website about books using Node.js and Express with API demo",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "dev": "nodemon"
+  },
+  "keywords": [
+    "Node.js",
+    "Express",
+    "Books",
+    "API",
+    "Website"
+  ],
+  "author": "Your Name",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  }
+}
